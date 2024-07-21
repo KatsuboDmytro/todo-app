@@ -22,8 +22,32 @@
 
 ---
 
-### How to use:
+### How it works:
+You can write something in the text input:
+![image](https://github.com/user-attachments/assets/cda4a0cf-0766-493f-b8ac-1dd22caa4175)
 
+After clicking 'Enter' the data will be saved at local storage:
+![image](https://github.com/user-attachments/assets/fbc1aad3-4a2e-4ac9-b7d5-7831a019bee2)
+
+After this, you can mark todo as done or delete it:
+![image](https://github.com/user-attachments/assets/fb0e7ef4-45c1-4084-b9db-823aef0c41bf)
+
+If there are so much data you can filter it as active or completed:
+![image](https://github.com/user-attachments/assets/ff2e8b37-354d-47bb-875f-212262dbf82b)
+![image](https://github.com/user-attachments/assets/a879c534-9498-4bdb-a8f6-5251b2b30535)
+
+If you click on this toggle - all of the todos change their status:
+![image](https://github.com/user-attachments/assets/4c42b16f-da10-4ac6-bd01-953f9d35eea8)
+![image](https://github.com/user-attachments/assets/daefd1c6-2766-498e-894f-69c3f2bb9542)
+
+By double click you can edit todo:
+![image](https://github.com/user-attachments/assets/31db0e11-2679-41bd-8eb9-a2ae939714cd)
+![image](https://github.com/user-attachments/assets/4ba4fdf9-261b-4b62-a049-6c87cd0963b5)
+![image](https://github.com/user-attachments/assets/e885339e-bb3a-43c8-b127-f8b844dd2ab6)
+
+---
+
+### How to use:
 
 In the project directory, you can run:
 
