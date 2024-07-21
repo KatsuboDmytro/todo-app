@@ -40,7 +40,7 @@ If you click on this toggle - all of the todos change their status:
 ![image](https://github.com/user-attachments/assets/4c42b16f-da10-4ac6-bd01-953f9d35eea8)
 ![image](https://github.com/user-attachments/assets/daefd1c6-2766-498e-894f-69c3f2bb9542)
 
-By double click you can edit todo:
+By double click you can edit todo:<br/>
 ![image](https://github.com/user-attachments/assets/31db0e11-2679-41bd-8eb9-a2ae939714cd)
 ![image](https://github.com/user-attachments/assets/4ba4fdf9-261b-4b62-a049-6c87cd0963b5)
 ![image](https://github.com/user-attachments/assets/e885339e-bb3a-43c8-b127-f8b844dd2ab6)
